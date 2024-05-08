@@ -16,6 +16,10 @@ p {
 	color:#2B4850; 
 }
 
+.endingtext {
+	color:#ffffff; 
+}
+
 li, a {
 
 	color: #2B4850;
@@ -51,3 +55,15 @@ li, a {
 	color: white;
 }
 
+p, li, a, h1, h6, table {
+	font-family: "Ariel", ;
+}
+
+
+table{
+	color:#2B4850;
+}
+
+h5{
+	color:#FFFFFF;
+}
